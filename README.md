@@ -1,7 +1,7 @@
 # Détection-de-fraude
 Détection de fraude de cartes de crédit en utilisant différents modèles de machine et deep learning
 
-À travers ce petit projet, j'ai créer des modeles de predictions autour d'une base de données de fraudes de cartes de crédits.
+À travers ce petit projet, j'ai créer des modèles de prédictions autour d'une base de données de fraudes de cartes de crédits.
 
 Précision par modèles:
 
